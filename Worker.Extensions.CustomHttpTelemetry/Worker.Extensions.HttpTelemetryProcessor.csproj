@@ -5,9 +5,12 @@
 		<RootNamespace>Worker.Extensions.HttpTelemetryProcessor</RootNamespace>
 		<AssemblyName>Worker.Extensions.HttpTelemetryProcessor</AssemblyName>
 		<Nullable>enable</Nullable>
-		<VersionPrefix>1.0.1</VersionPrefix>
+		<VersionPrefix>1.0.2</VersionPrefix>
 		<Authors>JackD</Authors>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<RepositoryUrl>https://github.com/JackD111/azure-functions-custom-http-telemetry.git</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
